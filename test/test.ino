@@ -1,5 +1,4 @@
 // Pong Game
-// Pong Game
 #include <Adafruit_NeoPixel.h>
 #define PIN 2 // Input pin for NEOPIXEL
 #define NUMPIXELS 32 // Number of neopixels in strip
